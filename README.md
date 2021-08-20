@@ -1,1 +1,2 @@
-# For Stats Course
+# HarvardX STAT110x
+## Introduction to Probability
